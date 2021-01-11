@@ -1,6 +1,6 @@
 import CountUncomplatedItems from "./CountUncomplatedItems";
 import styles from "../App.module.css";
-
+//items
 function Footer({ items }) {
   return (
     <footer className={styles.footer}>
